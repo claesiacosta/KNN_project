@@ -1,2 +1,2 @@
-# KNN_project
-K Nearest Neighbors Project
+# K Nearest Neighbors Project
+
